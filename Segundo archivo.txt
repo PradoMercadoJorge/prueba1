@@ -1,1 +1,3 @@
 Este es el segundo archivo, creado directamente en GitHub
+
+También se afectó en la rama de FixBug123
